@@ -1,5 +1,5 @@
 # NPL_G6
-Political Bias Identification - Universidad de Palermo - Biancotti - Loiacono.
+Political Bias Identification - Universidad de Palermo - Biancotti - Loiacono - Sanchez de Vera.
 
 
 Nicolas, te hacemos algunas aclaraciones acerca del modelo.
