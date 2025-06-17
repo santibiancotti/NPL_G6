@@ -1,5 +1,7 @@
 # NPL_G6
-Political Bias Identification - Universidad de Palermo - Biancotti - Loiacono
+Political Bias Identification - Universidad de Palermo - Biancotti - Loiacono.
+
+
 Nicolas, te hacemos algunas aclaraciones acerca del modelo.
 El mismo fue desarrollado en Google Colab, por ende los guardados que fuimos realizando de los pesos se encuentran en carpetas de drive.
 Esta aclaracion viene por el hecho de que en este repositorio, el codigo, no le va a permitir ejecutarlo por su cuenta.
